@@ -1,0 +1,1 @@
+yarn add ts-node-dev -D = soma do tsc que converte o codigo TS em JS, o Node que executa o codigo e o nodemon que observa o codigo (para o TS);
